@@ -416,7 +416,7 @@ if(questionstage === 2){
         }
 
         if(questionstage === 6){
-          if(input.value() === "1"){
+          if(input.value() === "7"){
             questionstage = 7;
             timeback.y = height/2;
             corrects += 1;
